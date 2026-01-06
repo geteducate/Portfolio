@@ -1,12 +1,3 @@
-# Attributions
+This Figma Make file includes components from [shadcn/ui](https://ui.shadcn.com/) used under [MIT license](https://github.com/shadcn-ui/ui/blob/main/LICENSE.md).
 
-This project was built for educational and portfolio purposes.
-
-## Libraries & Tools
-
-- **React** — https://react.dev
-- **TypeScript** — https://www.typescriptlang.org
-- **Vite** — https://vitejs.dev
-- **Tailwind CSS** — https://tailwindcss.com
-
-All trademarks, logos, and brand names are the property of their respective owners.
+This Figma Make file includes photos from [Unsplash](https://unsplash.com) used under [license](https://unsplash.com/license).
