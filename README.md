@@ -1,24 +1,11 @@
-# Educate — Job Hiring Platform
 
-Educate is a simple job hiring web application built with **React**, **TypeScript**, **Vite**, and **Tailwind CSS**.
+  # Clone Educate Website
 
-## Features
+  This is a code bundle for Clone Educate Website. The original project is available at https://www.figma.com/design/WE2FiSywSqaaiavdkyAMiM/Clone-Educate-Website.
 
-- Browse open job positions
-- View job details in a modal
-- Apply for jobs using a simple application form
-- Clean and responsive UI
+  ## Running the code
 
-## Tech Stack
+  Run `npm i` to install the dependencies.
 
-- React 18
-- TypeScript
-- Vite
-- Tailwind CSS
-
-## Getting Started
-
-Install dependencies:
-
-```bash
-npm install
+  Run `npm run dev` to start the development server.
+  
